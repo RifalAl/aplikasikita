@@ -11,7 +11,7 @@ function HelloWorld(){
 function ButtonWelcome(){
    return (
       <button onClick={() => alert('Selamat Datang')}>
-         coba klik saya!
+         coba klik sayax
       </button>
    )
 }
